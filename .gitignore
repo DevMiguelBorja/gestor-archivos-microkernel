@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos que genera el programa al ejecutarse
+workspace/
+logs/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
